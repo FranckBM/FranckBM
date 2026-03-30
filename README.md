@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Franck
 
-<!--
-**FranckBM/FranckBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Analyst | ☁️ Cloud & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I'm currently focused on building and strengthening my cloud skills, with a growing interest in SRE and cloud operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm working on
+☁️ Gaining hands-on experience in cloud platforms (AWS)
+⚙️ Learning DevOps practices and automation
+📊 Exploring monitoring, reliability, and incident response in cloud environments
+
+📌 Goals
+Build strong foundations in Cloud Engineering & Operations
+Develop skills in SRE and DevOps workflows
+Continue improving in cloud security and reliability
+
+💡 Always learning. Always improving.
+
